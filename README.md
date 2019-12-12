@@ -1,6 +1,6 @@
 # Average Joe's Fantasy League Constitution #
 <br>
-Cloned from https://github.com/sem4140/leagueConstitution
+(Cloned from https://github.com/sem4140/leagueConstitution)
 <br>
 
 ## Table of Contents
@@ -30,20 +30,40 @@ Cloned from https://github.com/sem4140/leagueConstitution
 
 ## __Section I - League History__ ##
 
-<br>
-Historical League Stats
-https://docs.google.com/spreadsheets/d/1NDIHrmofjXrrOvkau21QVk4US_3v21UjYUVVqW_BcII/edit?usp=sharing
-<br>
 
 ### League Winners ###
 
 | Year | First place | Second place | Third place | Most points | Platform |
 | --- | --- | --- | --- | --- | --- |
-| 2015 | Dan | Nick | Chad | Nick | ESPN |
 | 2016 | Matt | Aaron | Dan | Dan | ESPN |
 | 2017 | Nick | Ryan | Dan | Brandon | ESPN |
 | 2018 | Billy | Nick | Ryan | Aaron | Yahoo |
 
+<br><br>
+
+
+
+### Historical League Stats ###
+
+<br>
+Historical League Stat Data
+https://docs.google.com/spreadsheets/d/1NDIHrmofjXrrOvkau21QVk4US_3v21UjYUVVqW_BcII/edit?usp=sharing
+<br>
+
+| Manager | Tenure | Championships | Wins | Avg Finish | Points For | Points Against |
+| --- | --- | --- | --- | --- | --- | --- |
+| Nick | 4 | 1 | 31 | 2.25 | 5531.64 | 5134.6 |
+| Dan | 4 | 1 | 34 | 3 | 5532.1 | 5287.3 |
+| Ryan | 4 | - | 29 | 4.5 | 5496.58 | 5267.68 |
+| Chad | 4 | - | 25 | 6.5 | 5251.7 | 5193.42 |
+| Billy | 4 | 1 | 22 | 7 | 4899.68 | 5296.06 |
+| Aaron | 3 | - | 20 | 5.33 | 4444.78 | 4093.64 |
+| Evan | 3 | - | 11 | 9.67 | 3578.1 | 3713 |
+| Mike | 2 | - | 12 | 6 | 2579.8 | 2495.6 |
+| Brandon | 2 | - | 13 | 7 | 2647.44 | 2445.54 |
+| Kyle | 2 | - | 13 | 9 | 2522.38 | 2611.38 |
+
+* Only managers with at least 2 years tenure are shown.
 <br><br>
 
 ## __Section II - League Governence and Members__ ##
