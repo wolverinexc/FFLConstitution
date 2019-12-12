@@ -39,6 +39,7 @@ https://docs.google.com/spreadsheets/d/1NDIHrmofjXrrOvkau21QVk4US_3v21UjYUVVqW_B
 
 | Year | First place | Second place | Third place | Most points | Platform |
 | --- | --- | --- | --- | --- | --- |
+| 2015 | Dan | Nick | Chad | Nick | ESPN |
 | 2016 | Matt | Aaron | Dan | Dan | ESPN |
 | 2017 | Nick | Ryan | Dan | Brandon | ESPN |
 | 2018 | Billy | Nick | Ryan | Aaron | Yahoo |
